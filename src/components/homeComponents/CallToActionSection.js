@@ -1,6 +1,6 @@
 import React from "react";
 
-const CallToActionActionSection = () => {
+const CallToActionSection = () => {
   return (
     <div className="subscribe-section bg-with-black">
       <div className="container">
@@ -21,4 +21,4 @@ const CallToActionActionSection = () => {
   );
 };
 
-export default CallToActionActionSection;
+export default CallToActionSection;
