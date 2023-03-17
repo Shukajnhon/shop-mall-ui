@@ -3,10 +3,10 @@ import {Link} from "react-router-dom";
 
 const Orders = () => {
   return (
-    <div className="flex justify-center items-center flex-col">
-      {/* <div className="col-12 alert alert-info text-center mt-3">
+    <div className="flex flex-col items-center justify-center">
+      {/* <div className="mt-3 text-center col-12 alert alert-info">
         No orders
-        <Link to="/" className="btn btn-success mx-2 px-3 py-2" style={{fontSize: '12px'}}>
+        <Link to="/" className="px-3 py-2 mx-2 btn btn-success" style={{fontSize: '12px'}}>
             START SHOPPING
         </Link>
       </div> */}
